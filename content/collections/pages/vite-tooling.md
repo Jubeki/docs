@@ -36,7 +36,7 @@ Here's `package.json`, which contains the commands you'll need to run, and the d
         "build": "vite build"
     },
     "dependencies": {
-        "@statamic/cms": "file:./vendor/statamic/cms/resources/dist-package"
+        "@statamic/cms": "file:./vendor/statamic/cms/packages/cms"
     },
     "devDependencies": {
         "laravel-vite-plugin": "^1.2.0",
